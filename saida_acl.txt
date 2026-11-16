@@ -1,0 +1,3 @@
+ALUNO tentando editar nota  -> HTTP 403 | Acesso negado: apenas administrador pode editar notas.
+ADMIN editando nota         -> HTTP 302 (302 = sucesso)
+Nota persistida no painel   -> 9.9 OK

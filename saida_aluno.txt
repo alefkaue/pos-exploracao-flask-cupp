@@ -1,0 +1,17 @@
+[*] Alvo: http://127.0.0.1:5000/
+[*] Usuario: aluno01
+[*] Senhas a testar: 1108
+--------------------------------------------------
+    ... 100 tentativas
+    ... 200 tentativas
+    ... 300 tentativas
+    ... 400 tentativas
+    ... 500 tentativas
+    ... 600 tentativas
+    ... 700 tentativas
+    ... 800 tentativas
+    ... 900 tentativas
+    ... 1000 tentativas
+[+] SENHA ENCONTRADA (1063a tentativa): aluno01:rex2010
+    HTTP status: 302
+    Tempo: 5.51s
