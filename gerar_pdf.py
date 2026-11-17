@@ -70,6 +70,10 @@ def imagem(caminho, legenda=""):
 titulo("Atividade - Pos-exploracao em sistemas")
 texto("Disciplina: Pos-exploracao em sistemas &nbsp;|&nbsp; Prof. Paulo Alexandre Martin")
 texto(
+    'Repositorio: <a href="https://github.com/alefkaue/pos-exploracao-flask-cupp">'
+    "https://github.com/alefkaue/pos-exploracao-flask-cupp</a>"
+)
+texto(
     "Resumo: aplicacao web em Flask com dois niveis de acesso (administrador e aluno) "
     "sobre um banco SQLite. O administrador edita as notas; o aluno apenas visualiza. "
     "Senhas fracas foram criadas de proposito e constam da wordlist gerada pelo CUPP. "
@@ -161,6 +165,12 @@ texto(
     "com ~1100 senhas. Como as senhas do admin e do aluno eram previsiveis, ambas foram "
     "encontradas em poucos segundos. Isso confirma, na pratica, a importancia do uso de "
     "senhas fortes e de bloqueio de tentativas repetidas de login."
+)
+flow.append(Spacer(1, 10))
+texto(
+    'Codigo completo no repositorio: '
+    '<a href="https://github.com/alefkaue/pos-exploracao-flask-cupp">'
+    "https://github.com/alefkaue/pos-exploracao-flask-cupp</a>"
 )
 
 doc.build(flow)
